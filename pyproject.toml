@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentic_scikitlearn"
+version = "0.0.1"
+authors = [
+  { name="Shrijeeth S", email="shrijeethsuresh@gmail.com" },
+]
+description = "Python library designed for agentic workflows to train ML models using ScikitLearn with automatic data features identification"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "llama-index>=0.12.23",
+    "llama-index-core>=0.12.23",
+    "llama-index-tools-duckduckgo>=0.3.0",
+    "llama-index-llms-litellm>=0.3.0",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.9.10",
+    "pytest>=8.3.5",
+    "pytest-asyncio>=0.25.3",
+    "pytest-cov>=6.0.0"
+]
+
+[tool.setuptools.packages.find]
+include = ["agentic_scikitlearn"]
+
+[project.urls]
+"Homepage" = "https://github.com/Shrijeeth/Agentic-ScikitLearn"
+"Bug Tracker" = "https://github.com/Shrijeeth/Agentic-ScikitLearn/issues"
