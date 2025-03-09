@@ -58,6 +58,33 @@ if __name__ == "__main__":
 - PyCaret
 - LiteLLM
 
+## Roadmap
+
+Our project has an exciting development roadmap aimed at continuously improving the Agentic-ScikitLearn library:
+
+1. **TrainerAgent Optimization**
+   - Enhance the core TrainerAgent to improve training efficiency
+   - Refine automated model selection and training algorithms
+   - Implement more sophisticated model evaluation techniques
+
+2. **Model Training Improvements**
+   - Increase overall model training accuracy
+   - Develop more robust feature engineering techniques
+   - Implement advanced hyperparameter tuning strategies
+
+3. **Training Logs and Model Management**
+   - Create comprehensive logging system for training processes
+   - Develop intuitive model versioning and tracking
+   - Implement model performance archiving and comparison tools
+
+4. **AnalyticsAgent Development**
+   - Create an AI-powered AnalyticsAgent
+   - Implement multiple data analysis approaches
+   - Develop a human feedback loop for continuous improvement
+   - Enable diverse analytical perspectives on datasets
+
+We are committed to iteratively improving our library and welcome community input and contributions to our roadmap.
+
 ## Contributing
 
 Contributions are welcome! Please see CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
