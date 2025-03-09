@@ -20,9 +20,10 @@ dependencies = [
     "llama-index-core>=0.12.23",
     "llama-index-tools-duckduckgo>=0.3.0",
     "llama-index-llms-litellm>=0.3.0",
-    "numpy>=2.2.3",
-    "pandas>=2.2.3",
-    "scikit-learn>=1.6.1",
+    "numpy>=1.23.2",
+    "pycaret>=3.3.2",
+    "pandas>=2.1.4",
+    "scikit-learn<1.5.0",
 ]
 
 [project.optional-dependencies]
