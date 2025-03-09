@@ -12,7 +12,7 @@ Agentic-ScikitLearn is an innovative machine learning workflow automation librar
 ## Installation
 
 ```bash
-pip install agentic-scikitlearn
+pip install agentic_scikitlearn
 ```
 
 ## Quick Start
