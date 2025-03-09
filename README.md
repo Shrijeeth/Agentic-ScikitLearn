@@ -95,10 +95,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Scikit-Learn
-- LlamaIndex
-- PyCaret
-- LiteLLM
+- [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
+- [LlamaIndex](https://github.com/run-llama/llama_index)
+- [PyCaret](https://github.com/pycaret/pycaret)
+- [LiteLLM](https://github.com/BerriAI/litellm)
 
 ## Contact
 
