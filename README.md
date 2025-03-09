@@ -1,6 +1,6 @@
 # Agentic-ScikitLearn
 
-Agentic-ScikitLearn is an innovative machine learning workflow automation library that leverages AI agents to streamline the process of model training, feature selection, and model discovery using ScikitLearn.
+Agentic-ScikitLearn is an innovative machine learning workflow automation library that leverages AI agents to streamline the process of model training, feature selection, and model discovery using AI Agents and AutoML.
 
 ## Key Features
 
