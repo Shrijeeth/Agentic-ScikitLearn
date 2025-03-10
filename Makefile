@@ -1,3 +1,6 @@
+install:
+	python -m pip install ".[dev]"
+
 lint:
 	python -m ruff check
 
